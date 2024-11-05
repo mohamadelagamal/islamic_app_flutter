@@ -1,0 +1,26 @@
+{
+
+  "quranIconTitle": "Quran",
+  "quranIconSubtitle": "Read the Quran",
+  "quranIconDescription": "Read the Quran",
+  "nameSura": "Name of the Sura",
+  "numberOfAyah": "Number of Ayah",
+  "numberOfSura": "Number of Sura",
+  "islamicTitle": "Islamic",
+  "hadithIconTitle": "Hadith",
+  "hadithIconSubtitle": "Read the Hadith",
+  "hadithList": "Hadith",
+  "tasbehIconTitle": "Tasbeeh",
+  "numberOfTasbeeh": "Number of Tasbeeh",
+  "radioIconTitle": "Radio",
+  "settingsIconTitle": "Settings",
+  "selectLanguage": "Select Language",
+  "selectTheme": "Select Theme",
+  "english": "English",
+  "arabic": "Arabic",
+  "light": "Light",
+  "dark": "Dark",
+  "numberOfHadith": "Number of Hadith"
+
+
+}
